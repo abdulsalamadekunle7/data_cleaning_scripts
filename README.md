@@ -6,4 +6,4 @@
 
 #### Some data were messy/dirty and they were clean using the sql query in the scripts
 
-### After cleaning, that sql query are then create as views (virtual table) which can be query for proper analysis
+### After cleaning, the sql query are then create as views (virtual table) which can be query for proper analysis
